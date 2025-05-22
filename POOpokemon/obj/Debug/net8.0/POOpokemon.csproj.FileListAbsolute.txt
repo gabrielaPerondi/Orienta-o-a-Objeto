@@ -1,0 +1,14 @@
+C:\Users\429410624\Downloads\modulo back-end\POOpokemon\bin\Debug\net8.0\POOpokemon.exe
+C:\Users\429410624\Downloads\modulo back-end\POOpokemon\bin\Debug\net8.0\POOpokemon.deps.json
+C:\Users\429410624\Downloads\modulo back-end\POOpokemon\bin\Debug\net8.0\POOpokemon.runtimeconfig.json
+C:\Users\429410624\Downloads\modulo back-end\POOpokemon\bin\Debug\net8.0\POOpokemon.dll
+C:\Users\429410624\Downloads\modulo back-end\POOpokemon\bin\Debug\net8.0\POOpokemon.pdb
+C:\Users\429410624\Downloads\modulo back-end\POOpokemon\obj\Debug\net8.0\POOpokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\429410624\Downloads\modulo back-end\POOpokemon\obj\Debug\net8.0\POOpokemon.AssemblyInfoInputs.cache
+C:\Users\429410624\Downloads\modulo back-end\POOpokemon\obj\Debug\net8.0\POOpokemon.AssemblyInfo.cs
+C:\Users\429410624\Downloads\modulo back-end\POOpokemon\obj\Debug\net8.0\POOpokemon.csproj.CoreCompileInputs.cache
+C:\Users\429410624\Downloads\modulo back-end\POOpokemon\obj\Debug\net8.0\POOpokemon.dll
+C:\Users\429410624\Downloads\modulo back-end\POOpokemon\obj\Debug\net8.0\refint\POOpokemon.dll
+C:\Users\429410624\Downloads\modulo back-end\POOpokemon\obj\Debug\net8.0\POOpokemon.pdb
+C:\Users\429410624\Downloads\modulo back-end\POOpokemon\obj\Debug\net8.0\POOpokemon.genruntimeconfig.cache
+C:\Users\429410624\Downloads\modulo back-end\POOpokemon\obj\Debug\net8.0\ref\POOpokemon.dll
